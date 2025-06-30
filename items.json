@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "category": "Fruit"
+  },
+  {
+    "id": 3,
+    "name": "Milk",
+    "category": "Dairy"
+  },
+  {
+    "id": 4,
+    "name": "Chicken",
+    "category": "Meat"
+  },
+  {
+    "id": 5,
+    "name": "Bread",
+    "category": "Bakery"
+  },
+  {
+    "id": 6,
+    "name": "Orange Juice",
+    "category": "Beverage"
+  },
+  {
+    "name": "Banana",
+    "category": "Fruit",
+    "id": 7
+  }
+]
